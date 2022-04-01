@@ -1,12 +1,9 @@
-h1{
-    /* text-align: center; */
-    font-size: 3rem;
+h1 {
+  font-size: 3rem;
 }
 .container {
   width: 50%;
-  /* margin: 0 auto; */
   padding: 1cm;
-  
 }
 .div1 {
   width: 150px;
@@ -17,12 +14,11 @@ h1{
 .div2 {
   width: 150px;
   height: 150px;
-  border: 1px solid;
-  outline: 4px solid rgb(68, 66, 68);
+  border: 4px solid;
   background-color: rgb(190, 11, 11);
   display: inline-block;
-  margin:20px;
-  
+  margin: 20px;
+  border-style: double;
 }
 .div3 {
   width: 150px;
@@ -40,7 +36,6 @@ h1{
   background-color: rgb(190, 11, 11);
   display: inline-block;
   margin: 20px;
-
 }
 .div5 {
   width: 150px;
